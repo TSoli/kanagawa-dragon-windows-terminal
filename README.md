@@ -1,2 +1,2 @@
 # kanagawa-dragon-windows-terminal
-The Kanagawa Dragon theme for Windows Terminal
+The [Kanagawa Dragon](https://github.com/rebelot/kanagawa.nvim) theme for Windows Terminal
